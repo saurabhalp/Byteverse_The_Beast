@@ -1,12 +1,19 @@
-*{
-	margin:auto;
-	padding:auto;
+* {
+    margin: auto;
+    padding: auto;
 }
-.con {
-    color: rgb(0, 0, 0);
-    background-color: rgb(231, 235, 241);
-    padding: 15px 10px;
 
+.con {
+    background-color: azure;
+}
+
+.con h1 {
+    font-size: 22px;
+    font-style: initial;
+}
+
+.con p {
+    font-size: 18px;
 }
 
 p {
@@ -21,17 +28,17 @@ h1 {
     color: rgb(0, 0, 0);
 }
 
-.info
-    {
-        width:100%;
-        background-color:#6fcaff !important;
-        border-bottom:2px solid #f0f0f0;
+.info {
+    width: 100%;
+    background-color: #6fcaff !important;
+    border-bottom: 2px solid #f0f0f0;
 }
-.info div{
-    width:1200px;
-	color:#ffffff;
-	background: color: #6f6f6f !important;
-	font-family:calibri;
-	padding:10px;
-	text-align:right;
+
+.info div {
+    width: 1200px;
+    color: #ffffff;
+    background: color: #6f6f6f !important;
+    font-family: calibri;
+    padding: 10px;
+    text-align: right;
 }
