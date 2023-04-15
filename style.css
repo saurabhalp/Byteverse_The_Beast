@@ -1,0 +1,37 @@
+*{
+	margin:auto;
+	padding:auto;
+}
+.con {
+    color: rgb(0, 0, 0);
+    background-color: rgb(231, 235, 241);
+    padding: 15px 10px;
+
+}
+
+p {
+    font-size: medium;
+}
+
+h3 {
+    color: rgb(0, 125, 156);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+.info
+    {
+        width:100%;
+        background-color:#6fcaff !important;
+        border-bottom:2px solid #f0f0f0;
+}
+.info div{
+    width:1200px;
+	color:#ffffff;
+	background: color: #6f6f6f !important;
+	font-family:calibri;
+	padding:10px;
+	text-align:right;
+}
