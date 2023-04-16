@@ -2,6 +2,10 @@
     margin: auto;
     padding: auto;
 }
+.photo table {
+	border-collapse: separate;
+	border-spacing: 150px 15px;
+  }
 
 .con {
     background-color: azure;
@@ -14,6 +18,12 @@
 
 .con p {
     font-size: 18px;
+}
+.team{
+	border-radius: 50px;
+}
+.abc{
+	color: rgba(39, 39, 39, 0.678);
 }
 
 p {
