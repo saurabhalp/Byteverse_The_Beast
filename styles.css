@@ -9,17 +9,27 @@
 }
 .info div{
 	width:1200px;
-	color:#fff;
+	color:#d3e8e5;
 	background-color:#0a8adf !important;
 	font-family:calibri;
 	padding:10px;
 	text-align:right;
 }
-
+.link a{
+	color: #000;
+	font-size: large;
+	text-decoration: none;
+	float:left;
+	position: absolute;
+	right: 85%;
+	top: 3%;
+	font-weight:bolder;
+	
+}
 .icon{
 	width:100%;
-	background-color:;
-	border-bottom:2px solid #f0f0f0;
+	background-color:white;
+	border-bottom:2px solid white;
 }
 .icon div{
 	width:1200px;

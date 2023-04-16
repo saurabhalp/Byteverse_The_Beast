@@ -12,6 +12,7 @@
 	background-color: azure;
 }
 
+
 .icon {
 	
 	width: 100%;
@@ -20,7 +21,7 @@
 }
 
 .icon a{
-	color: #f0f0f0;
+	color: #e25151;
 }
 .icon div {
 	width: 1200px;
@@ -47,15 +48,18 @@
 }
 
 .con p {
-	font-size: 18px;
-}
+	font-size: 22px;
 
+}
+.con{
+	padding:10% ;
+}
 <<<<<<< Updated upstream .team {
 	border-radius: 50px;
 }
 
 .abc {
-	color: rgba(97, 92, 92, 0.678);
+	color: rgba(59, 56, 56, 0.678);
 }
 .ser{
     padding: 25px;
@@ -85,7 +89,7 @@
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
->>>>>>>Stashed changes p {
+ p {
 	font-size: medium;
 }
 
@@ -102,7 +106,17 @@ h1 {
 	background-color: #059bf3 !important;
 	border-bottom: 2px solid #f0f0f0;
 }
-
+.link a{
+	color: #000;
+	font-size: large;
+	text-decoration: none;
+	float:left;
+	position: absolute;
+	right: 85%;
+	top: 3%;
+	font-weight:bolder;
+	
+}
 .info div {
 	width: 1200px;
 	color: #ffffff;
