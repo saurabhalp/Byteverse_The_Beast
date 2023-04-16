@@ -10,6 +10,27 @@
 .con {
     background-color: azure;
 }
+.icon{
+	width:100%;
+	background-color:;
+	border-bottom:2px solid #f0f0f0;
+}
+.icon div{
+	width:1200px;
+	background-color:;
+	font-family:calibri;
+	padding:10px;
+	text-align:left;
+}
+.icon div table a{
+	padding:20px;
+	text-decoration:none;
+	color:rgb(10, 0, 24);
+}
+.icon div table a:hover{
+	color:#428bca;
+	border-bottom:2px solid gray;
+}
 
 .con h1 {
     font-size: 22px;
@@ -65,4 +86,17 @@ h1 {
     font-family: calibri;
     padding: 10px;
     text-align: right;
+}
+.navigation_down{
+	width:100%;
+	background-color:#000 !important;
+	border-bottom:2px solid #f0f0f0;
+}
+.navigation_down div{
+	width:1200px;
+	color:#fff;
+	background-color:#000;
+	font-family:calibri;
+	padding:10px;
+	text-align:left;
 }
