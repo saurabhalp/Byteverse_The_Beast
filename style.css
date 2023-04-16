@@ -1,102 +1,131 @@
 * {
-    margin: auto;
-    padding: auto;
+	margin: auto;
+	padding: auto;
 }
+
 .photo table {
 	border-collapse: separate;
 	border-spacing: 150px 15px;
-  }
+}
 
 .con {
-    background-color: azure;
+	background-color: azure;
 }
-.icon{
-	width:100%;
-	background-color:;
-	border-bottom:2px solid #f0f0f0;
+
+.icon {
+	
+	width: 100%;
+	background-color: ;
+	border-bottom: 2px solid #484040;
 }
-.icon div{
-	width:1200px;
-	background-color:;
-	font-family:calibri;
-	padding:10px;
-	text-align:left;
+
+.icon a{
+	color: #f0f0f0;
 }
-.icon div table a{
-	padding:20px;
-	text-decoration:none;
-	color:rgb(10, 0, 24);
+.icon div {
+	width: 1200px;
+	background-color: ;
+	font-family: calibri;
+	padding: 10px;
+	text-align: left;
 }
-.icon div table a:hover{
-	color:#428bca;
-	border-bottom:2px solid gray;
+
+.icon div table a {
+	padding: 20px;
+	text-decoration: none;
+	color: rgb(0, 125, 170);
+}
+
+.icon div table a:hover {
+	color: #428bca;
+	border-bottom: 2px solid gray;
 }
 
 .con h1 {
-    font-size: 22px;
-    font-style: initial;
+	font-size: 22px;
+	font-style: initial;
 }
 
 .con p {
-    font-size: 18px;
-}
-<<<<<<< Updated upstream
-.team{
-	border-radius: 50px;
-}
-.abc{
-	color: rgba(39, 39, 39, 0.678);
+	font-size: 18px;
 }
 
-=======
-.ser p{
-    font-size: 22px;
+<<<<<<< Updated upstream .team {
+	border-radius: 50px;
 }
-.ser h2{
-    font-size: 28px;
+
+.abc {
+	color: rgba(255, 57, 57, 0.678);
 }
-.head h1{
-    color:#740;
-    font-size: 50px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+.ser p {
+	font-size: 22px;
+	color: #f0f0f0;
 }
->>>>>>> Stashed changes
-p {
-    font-size: medium;
+.section  sec p{
+	font-size: 22px;
+
+}
+.list{
+	font-size: 22px;
+}
+.values{
+	font-size: 22px;
+}
+.ser h2 {
+	font-size: 28px;
+	color: #e6a910;
+}
+
+.head h1 {
+	color: #740;
+	font-size: 50px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+>>>>>>>Stashed changes p {
+	font-size: medium;
 }
 
 h3 {
-    color: rgb(0, 125, 156);
+	color: rgb(0, 125, 156);
 }
 
 h1 {
-    color: rgb(0, 0, 0);
+	color: rgb(0, 0, 0);
 }
 
 .info {
-    width: 100%;
-    background-color: #059bf3 !important;
-    border-bottom: 2px solid #f0f0f0;
+	width: 100%;
+	background-color: #059bf3 !important;
+	border-bottom: 2px solid #f0f0f0;
 }
 
 .info div {
-    width: 1200px;
-    color: #ffffff;
-    background: color: #6f6f6f !important;
-    font-family: calibri;
-    padding: 10px;
-    text-align: right;
+	width: 1200px;
+	color: #ffffff;
+	background: color: #6f6f6f !important;
+	font-family: calibri;
+	padding: 10px;
+	text-align: right;
 }
-.navigation_down{
-	width:100%;
-	background-color:#000 !important;
-	border-bottom:2px solid #f0f0f0;
+
+.navigation_down {
+	width: 100%;
+	background-color: #000 !important;
+	border-bottom: 2px solid #f0f0f0;
 }
-.navigation_down div{
-	width:1200px;
-	color:#fff;
-	background-color:#000;
-	font-family:calibri;
-	padding:10px;
-	text-align:left;
+
+.navigation_down div {
+	width: 1200px;
+	color: #fff;
+	background-color: #000;
+	font-family: calibri;
+	padding: 10px;
+	text-align: left;
+}
+
+.about p{
+	font-size: 26px;
+
 }
